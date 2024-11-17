@@ -239,7 +239,7 @@ const CoursesSection = () => {
 
 export default CoursesSection;
 
-// Without map method
+
 
 // Hardcoded Values
 

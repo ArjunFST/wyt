@@ -2,9 +2,7 @@ import "./globals.css";
 import { Sora, Inter, Playfair_Display } from "next/font/google";
 import InnovationsCard from "./components/innovation/InnovationsCard";
 import Events from './components/Events/Events'
-import Footer from "./components/footer/Footer";
 import CoursesSection from "./components/courses/CoursesSection";
-import Form from "./components/form/Form";
 import Testimonial from "./components/testimonial/Testimonial";
 import Gallery from "./components/gallery/Gallery";
 
@@ -33,7 +31,6 @@ export default function Home() {
       <CoursesSection />
       <Events/>
       <Testimonial />
-      {/* <Form /> */}
       <Gallery />
     </>
   );

@@ -124,13 +124,6 @@ const Header = () => {
           className="mx-auto mt-32"
         />
 
-        {/* Landing Page */}
-
-        {/* <div className="flex justify-center items-center h-full">
-  <button className="darksoul-glowing-button1 text-white text-xl tracking-wide bg-black p-3 pl-4 pr-4 font-bold leading-5 rounded-full border border-white border-opacity-10 relative bottom-4 font-primary box-border max-sm:z-0">
- 
-  </button>
-</div> */}
 
 <div className="darksoul-glowing-button1 relative group cursor-pointer">
   <div
@@ -140,7 +133,7 @@ const Header = () => {
     className="relative darksoul-button1 text-btn tracking-wide bg-black font-bold leading-5 rounded-full border border-white font-primary box-border max-sm:z-0 px-6 py-3"
     type="button"
   >
-    Wat'y Learning Hub
+    Wat &apos; y Learning Hub
   </button>
 </div>
 
@@ -192,10 +185,10 @@ const Header = () => {
               About
             </h2>
             <h1 className="font-primary text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 pb-2 text-ab max-sm:text-[25px]">
-              Wat'y Learning Hub
+              Wat &apos; y Learning Hub
             </h1>
             <p className=" font-secondary text-xl xl:w-[90%] lg:w-[90%] md:w-[100%] sm:w-[100%] text-para max-sm:text-[15px] text-innovaColor">
-              Wat'y Learning Hub empowers individuals through hands-on training
+              Wat &apos; y Learning Hub empowers individuals through hands-on training
               in programming, software development, and essential soft skills.
               Our focus goes beyond employment, inspiring students to reach
               their full potential and drive innovation. <br />
