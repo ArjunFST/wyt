@@ -28,7 +28,7 @@ const Header = () => {
       
      {/* Header */}
 
-      <header className="bg-black relative top-6 text-white border border-white border-opacity-10 rounded-xl mx-auto flex items-center justify-between  xl:w-[494px] lg:w-[494px] md:w-[494px] p-4">
+      <header className="bg-transparent relative top-6 text-white border border-white border-opacity-10 rounded-xl mx-auto flex items-center justify-between  xl:w-[494px] lg:w-[494px] md:w-[494px] p-4">
         <Image
           className="logo ml-4"
           src={logo}
